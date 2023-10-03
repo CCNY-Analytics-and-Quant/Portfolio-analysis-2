@@ -7,24 +7,25 @@ by Jean, Alex, Jessica
 ## Part 1
 Create a table showing constituent (stocks) risk analysis in the equal-weight portfolio analysis as of the current date.
 
-> a. Column 1 – Ticker
-> b. Column 2 – Portfolio Weight (equally weighted)
+a. Column 1 – Ticker
 
-> c. Column 3 – Annualized Volatility (using trailing 3-months)
+b. Column 2 – Portfolio Weight (equally weighted)
 
-> d. Column 4 – Beta against SPY (using trailing 12-months)
+c. Column 3 – Annualized Volatility (using trailing 3-months)
 
-> e. Column 5 – Beta against IWM (using trailing 12-months)
+d. Column 4 – Beta against SPY (using trailing 12-months)
 
-> f. Column 6 – Beta against DIA (using trailing 12-months
+e. Column 5 – Beta against IWM (using trailing 12-months)
 
-> g. Column 7 – Average Weekly Drawdown (52-week Low minus 52-week High) / 52-week High
+f. Column 6 – Beta against DIA (using trailing 12-months)
 
-> h. Column 8 – Maximum Weekly Drawdown (52-week Low minus 52-week High) / 52-week High
+g. Column 7 – Average Weekly Drawdown (52-week Low minus 52-week High) / 52-week High
 
-> i. Column 9 – Total Return (using trailing 10-years)
+h. Column 8 – Maximum Weekly Drawdown (52-week Low minus 52-week High) / 52-week High
 
-> j. Column 10 – Annualized Total Return (using trailing 10-years)
+i. Column 9 – Total Return (using trailing 10-years)
+
+j. Column 10 – Annualized Total Return (using trailing 10-years)
 
 
 ## Part 2
